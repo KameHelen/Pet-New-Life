@@ -1,3 +1,5 @@
+package petnewlife;
+
 public interface IPersona {
 
     String nombre="";
