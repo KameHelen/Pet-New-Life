@@ -9,6 +9,6 @@ public class mapajuego {
 
 
     private void createUIComponents() {
-        // TODO: place custom component creation code here
+        // TODO: hacer todo el puto juego
     }
 }
